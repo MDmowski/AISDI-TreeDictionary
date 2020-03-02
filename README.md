@@ -1,1 +1,4 @@
-# treedict
+# README
+## Plot
+
+![Plot](plt.png)
