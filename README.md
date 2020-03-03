@@ -1,5 +1,5 @@
 # README
-Dictionary with SplayTree. Compared to std::Map
+Dictionary using Splay Tree. Compared with std::Map
 ## Plot
 
 ![Plot](plt.png)
